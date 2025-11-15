@@ -49,11 +49,11 @@ const Navbar = () => {
                   Contact US
                 </Link>
               </li>
-              <li class="nav-item">
+              {/* <li class="nav-item">
                 <Link to="/Job" class="nav-link black-underline">
                   Job Search
                 </Link>
-              </li>
+              </li> */}
             </ul>
             <a href="https://skillworkers.co.uk/candidate/" className="button">
               <button class="btn btn-primary signup neu-morphism w-100">
